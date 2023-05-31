@@ -23,10 +23,10 @@
 <hr/>
 
 ### Reference
-[Kaggle-WSDM - Fake News Classification](https://www.kaggle.com/competitions/fake-news-pair-classification-challenge)
+1. [Kaggle-WSDM - Fake News Classification](https://www.kaggle.com/competitions/fake-news-pair-classification-challenge)
 
-[LeeMeng:進擊的 BERT：NLP 界的巨人之力與遷移學習](https://leemeng.tw/attack_on_bert_transfer_learning_in_nlp.html)
+2. [LeeMeng:進擊的 BERT：NLP 界的巨人之力與遷移學習](https://leemeng.tw/attack_on_bert_transfer_learning_in_nlp.html)
 
-[Evaluation Metrics : 分類模型](https://medium.com/ai%E5%8F%8D%E6%96%97%E5%9F%8E/evaluation-metrics-%E5%88%86%E9%A1%9E%E6%A8%A1%E5%9E%8B-ba17ad826599)
+3. [Evaluation Metrics : 分類模型](https://medium.com/ai%E5%8F%8D%E6%96%97%E5%9F%8E/evaluation-metrics-%E5%88%86%E9%A1%9E%E6%A8%A1%E5%9E%8B-ba17ad826599)
 
-[「蝦皮爬蟲」｜商品資料＋留言評論](https://marketingliveincode.com/classification/crawler_king/110)
+4. [「蝦皮爬蟲」｜商品資料＋留言評論](https://marketingliveincode.com/classification/crawler_king/110)
