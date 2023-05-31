@@ -25,5 +25,5 @@
 <hr/>
 
 ### Reference
-[Kaggle-WSDM - Fake News Classification](https://www.kaggle.com/competitions/fake-news-pair-classification-challenge)
+<p>[Kaggle-WSDM - Fake News Classification](https://www.kaggle.com/competitions/fake-news-pair-classification-challenge)</p>
 [LeeMeng:進擊的 BERT：NLP 界的巨人之力與遷移學習](https://leemeng.tw/attack_on_bert_transfer_learning_in_nlp.html)
