@@ -4,6 +4,7 @@
 Network Sentiment Analysis Based on LSTM & BERT Machine Learning**
 
 > 「縱浪大化中，不喜亦不懼。應盡便須盡，無復獨多慮。」－陶淵明〈神釋〉
+
 > 「AI科技發展快速，其無非是世界一道不可阻攔的洪流，人們應保持開放樂見的心態面對，在一波波的浪潮中，尋等機會，一舉站上AI的浪頭上，盡享AI帶來的便利及紅利。」－CCJ
 <hr/>
 
