@@ -1,6 +1,5 @@
 ## Network Sentiment Analysis Based on LSTM & BERT Machine Learning
-
-### 基於 LSTM &amp; BERT 機器學習之網路輿情分析***
+### 基於 LSTM &amp; BERT 機器學習之網路輿情分析
 
 > 「縱浪大化中，不喜亦不懼。應盡便須盡，無復獨多慮。」－陶淵明〈神釋〉
 
