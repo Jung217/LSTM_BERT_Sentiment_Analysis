@@ -4,9 +4,12 @@
 > 「縱浪大化中，不喜亦不懼。應盡便須盡，無復獨多慮。」－陶淵明〈神釋〉
 
 > 「AI科技發展快速，其無非是世界一道不可阻攔的洪流，人們應保持開放樂見的心態面對，在一波波的浪潮中，尋等機會，一舉站上AI的浪頭上，盡享AI帶來的便利及紅利。」－CCJ
-<hr/>
 
-### Introduction
+## Preface
+本專案為紀念2023年5月，整個月不捨晝夜訓練模型的我，跟訓練AI模型差點成為Colab Pro的我，僅此。
+<br/>
+
+## Introduction
 * [Detail Report](https://github.com/Jung217/LSTM_BERT_Sentiment_Analysis/blob/main/Network%20Sentiment%20Analysis%20Based%20on%20LSTM%20%26%20BERT%20Machine%20Learning_By_CCJ.pdf) : All the details about this project
 * [LSTM Model](https://github.com/Jung217/LSTM_BERT_Sentiment_Analysis/tree/main/LSTM)
     * [LSTM.ipynb](https://github.com/Jung217/LSTM_BERT_Sentiment_Analysis/blob/main/LSTM/LSTM.ipynb) : Main training and testing program 
@@ -20,9 +23,7 @@
     * [shopee.ipynb](https://github.com/Jung217/LSTM_BERT_Sentiment_Analysis/blob/main/Shopee%20Crawler/shopee.ipynb) : Crawler program to get data from [Shopee](https://shopee.tw/)
     * [Data](https://github.com/Jung217/LSTM_BERT_Sentiment_Analysis/tree/main/Shopee%20Crawler/Data) : Commodity data from shopee
 
-<hr/>
-
-### Reference
+## Reference
 1. [Kaggle-WSDM - Fake News Classification](https://www.kaggle.com/competitions/fake-news-pair-classification-challenge)
 
 2. [LeeMeng:進擊的 BERT：NLP 界的巨人之力與遷移學習](https://leemeng.tw/attack_on_bert_transfer_learning_in_nlp.html)
