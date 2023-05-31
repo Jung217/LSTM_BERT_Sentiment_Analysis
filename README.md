@@ -3,8 +3,8 @@
 **基於 LSTM &amp; BERT 機器學習之網路輿情分析
 Network Sentiment Analysis Based on LSTM & BERT Machine Learning**
 
-> 「縱浪大化中，不喜亦不懼。應盡便須盡，無復獨多慮。」[name=陶淵明〈神釋〉]
-「AI科技發展快速，其無非是世界一道不可阻攔的洪流，人們應保持開放樂見的心態面對，在一波波的浪潮中，尋等機會，一舉站上AI的浪頭上，盡享AI帶來的便利及紅利。」[name=CCJ]
+> 「縱浪大化中，不喜亦不懼。應盡便須盡，無復獨多慮。」－陶淵明〈神釋〉
+> 「AI科技發展快速，其無非是世界一道不可阻攔的洪流，人們應保持開放樂見的心態面對，在一波波的浪潮中，尋等機會，一舉站上AI的浪頭上，盡享AI帶來的便利及紅利。」－CCJ
 <hr/>
 
 * [Detail Report](https://github.com/Jung217/LSTM_BERT_Sentiment_Analysis/blob/main/Network%20Sentiment%20Analysis%20Based%20on%20LSTM%20%26%20BERT%20Machine%20Learning_By_CCJ.pdf) : All the details about this project
